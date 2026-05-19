@@ -1,5 +1,4 @@
 👋 Hi, I’m Rosen Doychev
-
 🌱 I’m currently learning Python
 
 <!--
