@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Rosen Doychev
+👋 Hi, I’m Rosen Doychev
 🌱 I’m currently learning Python
 
 <!--
