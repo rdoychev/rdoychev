@@ -1,4 +1,5 @@
-## Hi there 👋
+## 👋 Hi, I’m Rosen Doychev
+🌱 I’m currently learning Python
 
 <!--
 **rdoychev/rdoychev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
